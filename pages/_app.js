@@ -7,6 +7,7 @@ import Testimonial from "../Components/Testimonial";
 import Contact from "../Components/Contact";
 import Footer from "../Components/Footer";
 
+
 function App() {
   return (
     <div className="App">
@@ -21,3 +22,13 @@ function App() {
 }
 
 export default App;
+
+// function App({ Component, pageProps }) {
+//   return (
+//    <SessionProvider session={pageProps.session}>
+//     <Component {...pageProps} />
+//    </SessionProvider>
+//   );
+//  }
+ 
+
