@@ -47,7 +47,7 @@ const Navbar = () => {
       <div className="navbar-links-container">
         <a href="">Home</a>
         <a href="">About</a>
-        <a href="">Testimonials</a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSeYZPoKlJ-z3TbMxj-tQQiQaMaUPUByyPeA41fkGpD3wE7Yew/viewform?usp=sf_link">Feedback</a>
         <a href="">Contact</a>
         <a href="">
           <BsCart2 className="navbar-cart-icon" />
