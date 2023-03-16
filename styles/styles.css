@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif !important
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto
+  }
+
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background: #dda1d9;
+    background: linear-gradient(90deg, #dda1d9 19%, #d4e6e5 68%)
+  }
+  
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 90px
+  }
