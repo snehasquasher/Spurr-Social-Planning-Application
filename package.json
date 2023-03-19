@@ -23,7 +23,7 @@
     "start": "next start"
   },
   "eslintConfig": {
-    "parser": "babel-eslint"
+    "parser": "@babel/eslint-parser"
   },
   "browserslist": {
     "production": [
