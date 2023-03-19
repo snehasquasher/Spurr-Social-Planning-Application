@@ -23,8 +23,7 @@
     "start": "next start"
   },
   "eslintConfig": {
-    "extends": [
-    ]
+    "parser": "babel-eslint"
   },
   "browserslist": {
     "production": [
@@ -39,6 +38,7 @@
     ]
   },
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
     "eslint": "^8.36.0",
     "typescript": "4.9.5"
   }
