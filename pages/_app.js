@@ -6,6 +6,7 @@ import Work from "../Components/Work";
 import Testimonial from "../Components/Testimonial";
 import Contact from "../Components/Contact";
 import Footer from "../Components/Footer";
+import React from 'react';
 
 
 function App() {
