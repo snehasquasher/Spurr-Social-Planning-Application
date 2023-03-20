@@ -1,6 +1,6 @@
 //import next from "next";
-import {NextPage} from 'next'; 
-import React from "react";
+//import {NextPage} from 'next'; 
+//import React from "react";
 //interface Props {}
 
 // const SignIn: NextPage = (props): JSX.Element => {
