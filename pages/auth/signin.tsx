@@ -1,4 +1,3 @@
-export{}
 //import next from "next";
 //import {NextPage} from 'next'; 
 //import React from "react";
@@ -15,4 +14,8 @@ export{}
 //     </div>
 //     );
 // };
+
+export default function Home1() {
+    return {};
+  }
 
