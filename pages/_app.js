@@ -1,11 +1,11 @@
 import "../styles/app.css";
 import "../styles/styles.css";
 import Home from ".";
-import About from "../Components/About";
-import Work from "../Components/Work";
-import Testimonial from "../Components/Testimonial";
-import Contact from "../Components/Contact";
-import Footer from "../Components/Footer";
+// import About from "../Components/About";
+// import Work from "../Components/Work";
+// import Testimonial from "../Components/Testimonial";
+// import Contact from "../Components/Contact";
+// import Footer from "../Components/Footer";
 import React from 'react';
 
 
